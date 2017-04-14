@@ -1,3 +1,43 @@
+# Symfony To-Do List App
+
+**ToDoList** is a simple To-Do Application built with Symfony
+
+* Features/Technologies: 
+  * Symfony 3.2
+  * MVC, PHP OOP, PHPMyAdmin
+  * MySQL CRUD, Superglobals (GET, POST)
+
+## Version
+1.0.0
+
+## Live Demo
+ [To-Do-List](http://jyotsnasingh.com/projects/Symfony/ToDoList/)
+
+
+## Usage
+
+**Home** | **View To-Do**
+--- | ---
+Home Page | View To-Do
+![alt text](https://github.com/Jyotsna-Singh/Symfony-ToDoList/blob/master/web/img/home.PNG)  | ![alt text](https://github.com/Jyotsna-Singh/Symfony-ToDoList/blob/master/web/img/view.PNG)
+
+**Edit To-Do** | **Add New To-Do**
+--- | --- 
+Edit To-Do | Add New To-Do  
+![alt text](https://github.com/Jyotsna-Singh/Symfony-ToDoList/blob/master/web/img/edit.PNG)  | ![alt text](https://github.com/Jyotsna-Singh/Symfony-ToDoList/blob/master/web/img/add.PNG) 
+
+
+## Vendors
+Symfony - [http://symfony.com/](http://symfony.com/)  
+ 
+
+
+## License
+MIT License
+
+
+
+
 Symfony Standard Edition
 ========================
 

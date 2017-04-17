@@ -1,4 +1,4 @@
-# Symfony To-Do List App
+#        ![alt tag](https://github.com/Jyotsna-Singh/Symfony-ToDoList/blob/master/web/img/logo.PNG)
 
 **ToDoList** is a simple To-Do Application built with Symfony
 
@@ -10,8 +10,8 @@
 ## Version
 1.0.0
 
-## Live Demo
- [To-Do-List](http://jyotsnasingh.com/projects/Symfony/ToDoList/)
+## Live Demo - To-Do List App
+ [![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/green-button.PNG)](http://jyotsnasingh.com/projects/Symfony/ToDoList/)
 
 
 ## Usage

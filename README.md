@@ -1,4 +1,7 @@
-#        ![alt tag](https://github.com/Jyotsna-Singh/Symfony-ToDoList/blob/master/web/img/logo.PNG)
+<p align="center">
+  <br><br>
+  <img src="https://github.com/Jyotsna-Singh/Symfony-ToDoList/blob/master/web/img/logo.PNG">
+</p>
 
 **ToDoList** is a simple To-Do Application built with Symfony
 

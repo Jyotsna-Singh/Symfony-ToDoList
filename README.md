@@ -19,16 +19,26 @@
 
 ## Usage
 
-**Home** | **View To-Do**
---- | ---
-Home Page | View To-Do
-![alt text](https://github.com/Jyotsna-Singh/Symfony-ToDoList/blob/master/web/img/home.PNG)  | ![alt text](https://github.com/Jyotsna-Singh/Symfony-ToDoList/blob/master/web/img/view.PNG)
+**Home** | 
+--- | 
+Home Page |
+![alt text](https://github.com/Jyotsna-Singh/Symfony-ToDoList/blob/master/web/img/home.PNG)  | 
 
-**Edit To-Do** | **Add New To-Do**
---- | --- 
-Edit To-Do | Add New To-Do  
-![alt text](https://github.com/Jyotsna-Singh/Symfony-ToDoList/blob/master/web/img/edit.PNG)  | ![alt text](https://github.com/Jyotsna-Singh/Symfony-ToDoList/blob/master/web/img/add.PNG) 
+**View To-Do** |
+--- | 
+View To-Do |
+![alt text](https://github.com/Jyotsna-Singh/Symfony-ToDoList/blob/master/web/img/view.PNG) |
 
+
+**Edit To-Do** |
+--- | 
+Edit To-Do | 
+![alt text](https://github.com/Jyotsna-Singh/Symfony-ToDoList/blob/master/web/img/edit.PNG)  |
+
+**Add New To-Do**
+--- |
+Add New To-Do  |
+![alt text](https://github.com/Jyotsna-Singh/Symfony-ToDoList/blob/master/web/img/add.PNG) |
 
 ## Vendors
 Symfony - [http://symfony.com/](http://symfony.com/)  
